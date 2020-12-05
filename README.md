@@ -22,6 +22,16 @@ title: xor emojis
 
 🖐 Accessory: 🔮 Orb of Vision 
 
+
+
+# map example
+
+```
+    🏰  
+📍--+-🏛-🏚 ---- ✨
+    
+```
+
 ---
 
 # character types
