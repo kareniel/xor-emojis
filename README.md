@@ -54,6 +54,7 @@ title: xor emojis
 👣 footprints
 🛎 request
 🔔 notification
+🗺 map
 📌 pinned
 🔗 link
 ✨ new
