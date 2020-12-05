@@ -24,15 +24,16 @@ title: xor emojis
 
 
 
-# map example
+# items examples
 
-```
-    🏰  
-📍--+-🏛-🏚 ---- ✨
-    
-```
+- 📜 RFZ 0x01: Explains how the Unix Epoch Loop works 
+- 🕯 Candle: Resurrects you when you die. 
+- 🗝 Key: Stores an encrypted flag string.
+- 🃏 Joker: Roll a natural 20.
+
 
 ---
+
 
 # character types
 🧙 wizard
