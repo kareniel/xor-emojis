@@ -5,16 +5,22 @@ title: xor emojis
 
 # character sheet example
 🧙 Path: Wizard
+
 🌙 Age:  1 moon
 
+  
 📍 Location: 🏚 Rat's Nest
 
-🩸 Health: 10/10
-💰 Gold:   2
+  
+🩸 Health: 10/10 
 
-👤 Clothing:  👑 Creator Crown of Crowns
-💪 Weapon:    🔭 Magic telescope
-🖐 Accessory: 🔮 Orb of Vision
+💰 Gold:   2 
+  
+👤 Clothing:  👑 Creator Crown of Crowns 
+
+💪 Weapon:    🔭 Magic telescope 
+
+🖐 Accessory: 🔮 Orb of Vision 
 
 ---
 
