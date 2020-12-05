@@ -1,15 +1,31 @@
 ---
 title: xor emojis
 ---
+📅 2038-12-06
+
+# character sheet example
+🧙 Path: Wizard
+🌙 Age:  1 moon
+
+📍 Location: 🏚 Rat's Nest
+
+🩸 Health: 10/10
+💰 Gold:   2
+
+👤 Clothing:  👑 Creator Crown of Crowns
+💪 Weapon:    🔭 Magic telescope
+🖐 Accessory: 🔮 Orb of Vision
+
+---
 
 # character types
 🧙 wizard
 🧚 fairy
-🧛 vampire
-🧜 mermaid
 🧝 elf 
-🧞 genie 
+🧜 mermaid
+🧛 vampire
 🧟 zombie
+🧞 genie
 
 # state
 🩸 health
@@ -25,11 +41,13 @@ title: xor emojis
 🔗 link
 ✨ new
 🎯 target
+⚒ work
 📐 measure
 🚩 flagged
 ⚙ settings
 
 # narrative
+⚓ anchor
 🎭 story
 🧵 thread
 🎨 nuances
@@ -65,7 +83,6 @@ title: xor emojis
 🎪 circus
 ⛺ tent
 ⛲ fountain
-⚓ anchor
 🪐 planets
 ⭐ stars
 
@@ -92,7 +109,6 @@ title: xor emojis
 🥁 drums
 🪓 axe
 ⛏ pick
-⚒ work
 🗡 dagger
 ⚔ battle 
 🏹 bow 
@@ -102,17 +118,17 @@ title: xor emojis
 🔱 trident
 
 # clothing
+👑 crown
+🎩 hat
 🧣 scarf 
 🧤 gloves
 🧥 jacket
 🧦 socks
 🩲 briefs
 🩳 shorts
+🥾 boots
 
 # accessory
-🥾 boots
-👑 crown
-🎩 hat
 💍 ring
 🔮 orb
 🎲 dice
