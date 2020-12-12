@@ -85,6 +85,11 @@ title: xor emojis
 🏕 campsite
 🏖 beach
 🏜 desert
+🌵 cactus
+🎄 xmas tree
+🌲 fir
+🌳 tree
+🌴 palm tree
 🏝 island
 🏟 stadium
 🏛 temple
@@ -103,6 +108,25 @@ title: xor emojis
 ⛲ fountain
 🪐 planets
 ⭐ stars
+
+# enemies
+
+🐀 rat
+🐜 ant
+🦗 cricket
+🦇 bat
+🦟 mosquito
+🕷 spider
+🦂 scorpion
+🐍 snake
+🦎 lizard
+🐊 crocodile
+🦏 rhino
+🐅 tiger
+🦑 squid
+🦈 shark
+🦖 dinosaur
+🐉 dragon
 
 # conditions
 ♈♉♊♋♌♍♎♏♐♑♒♓ alchemy
@@ -168,10 +192,28 @@ title: xor emojis
 🗜 clamp
 ⛓ chains
 ⚗ alembic
+🌿 herb
+🍄 mushroom
 
 # transportation
 ⛵ boat
 🛶 canoe
+🐎 horse
+🦌 deer
+🐪 camel
+
+# friends
+🐌 snail
+🐒 monkey
+🐥 chick
+🦉 owl
+🐢 turtle
+🐈 cat
+🐕 dog
+
+# critters
+🐓 chicken
+🐑 sheep
 
 # misc
 ♾ infinity
