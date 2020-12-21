@@ -109,6 +109,23 @@ title: xor emojis
 🪐 planets
 ⭐ stars
 
+# devices
+
+🔌 electric plug
+🔋 battery
+💾 floppy
+💿 cdrom
+💽 disk
+📁 directory
+🗄️ filesystem
+🪣 bucket
+🧮 abacus
+💻 laptop
+🖥️ desktop
+⚙️ configuration
+🔢 data
+🤖 bot
+
 # enemies
 
 🐀 rat
