@@ -128,27 +128,35 @@ title: xor emojis
 
 # enemies
 
-🐀 rat
-🐜 ant
-🦗 cricket
-🦇 bat
-🦟 mosquito
-🕷 spider
-🦂 scorpion
-🐍 snake
-🦎 lizard
-🐊 crocodile
-🦏 rhino
-🐅 tiger
-🦑 squid
-🦈 shark
-🦖 dinosaur
-🐉 dragon
+🦟 Mosquito
+🐀 Rat
+🕷️ Spider
+🦇 Bat
+🐍 Snake
+🦂 Scorpion
+🐺 Wolf
+👺 Goblin
+👹 Ogre
+🐉 Dragon
 
 # conditions
 ♈♉♊♋♌♍♎♏♐♑♒♓ alchemy
 ☁⛅⛈🌤🌥🌦🌧🌨🌩 weather
 ♠♥♦♣ card suits
+💥 Collision
+💫 Dizzy
+💦 Sweat Droplets
+💨 Dashing Away
+🕸️ Spider Web
+
+# weather
+🌈 Rainbow
+☂️ Umbrella
+☔ Umbrella with Rain Drops
+⚡ High Voltage
+❄️ Snowflake
+☃️ Snowman
+⛄ Snowman Without Snow
 
 # spells
 🌪 tornado
@@ -219,24 +227,19 @@ title: xor emojis
 🦌 deer
 🐪 camel
 
-# friends
-🐌 snail
-🐒 monkey
-🐥 chick
-🦉 owl
-🐢 turtle
-🐈 cat
-🐕 dog
-
 # critters
+
+🐌 snail
+🐢 turtle
+🐕 Dog
+🐈 Cat
 🐓 chicken
 🐑 sheep
+🐄 Cow
+🦌 Deer
+🦉 Owl
 
 # misc
-♾ infinity
-♟ pawn
-⚖ justice
-⚜ lys
 🏴
 🏳
 🏴‍☠️ pirates
